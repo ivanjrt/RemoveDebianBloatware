@@ -4,7 +4,6 @@
 #Libre
 sudo apt-get remove --purge libreoffice* -y
 
-
 #Transmision
 sudo apt-get purge transmission-gtk
 
