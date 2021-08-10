@@ -17,10 +17,10 @@ sudo apt remove celluloid
 sudo apt-get remove pix
 
 #Hypnotix
-sudo apt-get remove pix
+sudo apt-get remove Hypnotix
 
 #Drawing
-sudo apt-get remove pix
+sudo apt-get remove drawing
 
 #Dictionary
 sudo apt-get remove xfce4-dict
