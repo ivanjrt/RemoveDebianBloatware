@@ -2,9 +2,8 @@
 
 ```
 #Libre
-sudo apt-get remove --purge libreoffice*
-sudo apt-get clean
-sudo apt-get autoremove
+sudo apt-get remove --purge libreoffice* -y
+
 
 #Transmision
 sudo apt-get purge transmission-gtk
@@ -41,4 +40,7 @@ sudo apt-get remove webapp-manager
 
 #Firefox
 sudo apt-get remove firefox
+
+sudo apt-get clean
+sudo apt-get autoremove
 ```
